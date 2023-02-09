@@ -33,7 +33,7 @@ Attack Narrative
         - I try another ways whether the lockout is based on something in the HTTP Headers, this time modifying the User-Agent per request, using the `X-Forwarded-For`
          header and removing or modifying the cookie value. But to no avail, after three attempts the lockout occurs.
             
-            ![Untitled](Penetration%20Test%20Report%20Broken%20Authentication%2009010b19f26c49e996b9455987823204/Untitled%203.png)
+            ![Untitled](Image/Untitled%203.png)
             
 
 - ***Check the format of request***
