@@ -13,7 +13,7 @@ Attack Narrative
     - Lab-link: [https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request](https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request)
     - Description
         
-        ![Untitled](LabDemo/Image/Untitled.png)
+        ![Untitled](Image/Untitled.png)
         
     - Link Candidate passwords: [https://portswigger.net/web-security/authentication/auth-lab-passwords](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 2. ***Attack Narrative***
