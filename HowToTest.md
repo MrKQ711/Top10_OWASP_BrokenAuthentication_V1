@@ -110,7 +110,7 @@ In this article, we’ll be going through how to test for broken authentication,
             - *Testing for a Nonexistent Username*
                 - Insert an invalid user ID and a wrong password and record the server answer (the tester should be confident that the username is not valid in the application). Record the error message and the server answer. If the tester enters a nonexistent user ID, they can receive a message similar to :
                     
-                    ![Untitled](HowToTest%2043404930b915415faf8cea59c7dabbbd/Untitled%201.png)
+                    ![Untitled](Image/Untitled%201.png)
                     
                     *or a message like the following one:*
                     
@@ -187,7 +187,7 @@ In this article, we’ll be going through how to test for broken authentication,
             - *Enumerate Authentication Functionality*
                 - For each alternative channel where user accounts or functionality are shared, identify if all the authentication functions of the primary channel are available, and if anything extra exists. It may be useful to create a grid like the one below:
                     
-                    ![Untitled](HowToTest%2043404930b915415faf8cea59c7dabbbd/Untitled%202.png)
+                    ![Untitled](Image/Untitled%202.png)
                     
 3. **Impact of broken authentication**
     - Compromising an account allows the attacker access to unauthorized information.
