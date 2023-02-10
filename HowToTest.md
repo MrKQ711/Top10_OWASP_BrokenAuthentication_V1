@@ -213,3 +213,5 @@ In this article, we’ll be going through how to test for broken authentication,
     - https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/README
     - https://rnpg.ir/Documents/WSTG-V4.2.pdf
     - https://github.com/harshinsecurity/web-pentesting-checklist
+    - https://www.breachlock.com/resources/blog/web-application-penetration-testing-checklist/
+    - https://book.hacktricks.xyz/pentesting-web/2fa-bypass
