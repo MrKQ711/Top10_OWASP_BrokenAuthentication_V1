@@ -208,3 +208,8 @@ In this article, we’ll be going through how to test for broken authentication,
 5. **Conclusion**
     - To summarize, we have earned how to test for broken authentication in web applications, the impact and prevention of broken authentication applications.
     - Broken authentication is a vulnerability that must be prevented by all means. Ensuring you have a proper and secured authentication mechanism is very important.
+6. **Reference**
+    - https://auth0.com/resources/whitepapers/broken-auth-checklist
+    - https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/README
+    - https://rnpg.ir/Documents/WSTG-V4.2.pdf
+    - https://github.com/harshinsecurity/web-pentesting-checklist
